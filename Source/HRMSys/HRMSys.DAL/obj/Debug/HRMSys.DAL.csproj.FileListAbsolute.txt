@@ -1,0 +1,16 @@
+D:\VC#\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.DAL.dll
+D:\VC#\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.DAL.pdb
+D:\VC#\HRMSys\HRMSys.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\VC#\HRMSys\HRMSys.DAL\obj\Debug\HRMSys.DAL.dll
+D:\VC#\HRMSys\HRMSys.DAL\obj\Debug\HRMSys.DAL.pdb
+D:\VC#\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.Model.dll
+D:\VC#\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.Model.pdb
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\obj\Debug\HRMSys.DAL.csprojAssemblyReference.cache
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\obj\Debug\HRMSys.DAL.csproj.CoreCompileInputs.cache
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\obj\Debug\HRMSys.DAL.dll
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\obj\Debug\HRMSys.DAL.pdb
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.DAL.dll
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.DAL.pdb
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.Model.dll
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\bin\Debug\HRMSys.Model.pdb
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.DAL\obj\Debug\HRMSys.DAL.csproj.CopyComplete

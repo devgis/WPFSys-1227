@@ -1,0 +1,27 @@
+﻿<Window x:Class="HRMSys.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="人力资源管理系统"  Height="350" Width="525" WindowState="Maximized" >
+    <Grid>
+        <DockPanel LastChildFill="False" >
+            <Menu DockPanel.Dock="Top" Height="30">
+                <MenuItem Header="系统">
+                    <MenuItem Header="操作管理员" Name="OPMG" Click="OPMG_Click" />
+                    <MenuItem Header="部门管理" Name="Depmgr" Click="Depmgr_Click" />
+                    <MenuItem Header="系统设置" Name="Setiing" Click="Setiing_Click" />
+                    <MenuItem Header="查看系统操作日志" Name="Operatorlogs"  Click="Operatorlogs_Click">
+                     
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="员工" >
+                    <MenuItem Header="员工管理" Name="AddMember" Click="MenuItem_Click"/>
+                    <MenuItem Header="生成工资单" Name="producesalary" Click="producesalary_Click" />
+                </MenuItem>
+            
+            </Menu>
+
+           
+            <TextBlock Height="30" DockPanel.Dock="Bottom" Name="txttime" Width="200" HorizontalAlignment="Right" />
+        </DockPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+D:\VC#\HRMSys\HRMSys.Model\bin\Debug\HRMSys.Model.dll
+D:\VC#\HRMSys\HRMSys.Model\bin\Debug\HRMSys.Model.pdb
+D:\VC#\HRMSys\HRMSys.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\VC#\HRMSys\HRMSys.Model\obj\Debug\HRMSys.Model.dll
+D:\VC#\HRMSys\HRMSys.Model\obj\Debug\HRMSys.Model.pdb
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.Model\bin\Debug\HRMSys.Model.dll
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.Model\bin\Debug\HRMSys.Model.pdb
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.Model\obj\Debug\HRMSys.Model.csproj.CoreCompileInputs.cache
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.Model\obj\Debug\HRMSys.Model.dll
+C:\Work\GitHub\WPFSys-1227\Source\HRMSys\HRMSys.Model\obj\Debug\HRMSys.Model.pdb
