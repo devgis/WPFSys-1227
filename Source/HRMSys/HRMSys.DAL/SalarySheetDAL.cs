@@ -62,10 +62,10 @@ namespace HRMSys.DAL
            new SqlParameter("@DePartmentId", dept));
 
             Employee[] employees = EmployeeDAL.ListAllDept(dept);
+            Random rd = new Random();
             foreach (Employee employee in employees)
             {
-                SqlHelper.ExecuteNonQuery(@"insert into T_SalarySheetItem values (newid(),@SheetId,@EmployeeId,0,
-                    0,0,0)", new SqlParameter("@SheetId", sheetId),
+                SqlHelper.ExecuteNonQuery($"insert into T_SalarySheetItem values (newid(),@SheetId,@EmployeeId,{rd.Next(2000,3000)},{rd.Next(200, 500)},{rd.Next(100, 1000)},{rd.Next(200, 600)})", new SqlParameter("@SheetId", sheetId),
                            new SqlParameter("@EmployeeId", employee.Id));
 
             }
